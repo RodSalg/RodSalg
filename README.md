@@ -1,16 +1,34 @@
-### Hi there 👋
+----------------------------------------------------------------------------
 
-<!--
-**RodSalg/RodSalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello, world. I'm Thiago Rodrigo!
+
+ 
+
+:computer: I am majoring in computer engineering!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning C and Java.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+ 
+
+## About me
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodSalg)](https://github.com/RodSalg/github-readme-stats)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/thiago-rodrigo-649820218/)]( https://www.linkedin.com/in/thiago-rodrigo-649820218/)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
