@@ -6,6 +6,8 @@
 
 ## Hello, world. I'm Thiago Rodrigo!
 
+##If I help you, please follow me <3
+
  
 
 :computer: I am majoring in computer engineering!
