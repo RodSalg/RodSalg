@@ -4,7 +4,7 @@
 
  
 
-## Hello, world. I'm Thiago Rodrigo!
+## greetings, humans!. I'm Thiago Rodrigo!
 
 If I help you, please follow me <3
 
