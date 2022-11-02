@@ -6,7 +6,7 @@
 
 ## Hello, world. I'm Thiago Rodrigo!
 
-##If I help you, please follow me <3
+If I help you, please follow me <3
 
  
 
@@ -16,7 +16,7 @@
 
 :books: I’m currently learning C, Java, PHP and Ladder Logic.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: finish my current projects and achieve my graduation..
 
  
 
