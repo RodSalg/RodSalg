@@ -16,7 +16,6 @@ If I help you, please follow me <3
 
 :books: I’m currently learning C, Java, PHP and Ladder Logic.
 
-:outbox_tray: 2022 Goals: finish my current projects and achieve my graduation..
 
  
 
