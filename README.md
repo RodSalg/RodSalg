@@ -4,13 +4,9 @@
 
  
 
-## Hello, Everyone !!! I'm Thiago Rodrigo!
+## Hi, Everyone!
 
-If I help you, please follow me <3
-
- 
-
-:computer: I Am undergraduate student in computer engineering at the federal university of Amazonas in the last semester.
+:computer: I graduated in Computer Engineering from the Federal University of Amazonas.
 
 :house_with_garden: I’m from Brazil.
 
@@ -24,11 +20,10 @@ If I help you, please follow me <3
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodSalg&theme=tokyonight)
 
 
-
-
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-rodrigo-649820218/)](https://www.linkedin.com/in/thiago-rodrigo-649820218/)
 
 
-- MAY THE FORCE BE WITH YOU!! o/
+- If you are going to fight in the rain, train in the storm.
+- Stay hard!
 
 ----------------------------------------------------------------------------------
