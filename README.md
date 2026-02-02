@@ -29,18 +29,24 @@ Hands-on experience with:
 ## GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodSalg&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodSalg&theme=tokyonight&layout=compact&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodSalg&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodSalg&theme=tokyonight&hide_border=true)
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodSalg&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodSalg&theme=tokyonight)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodSalg&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodSalg&theme=tokyonight)
 
 </div>
 
-## Activity Graph
+## Achievements
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodSalg&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=RodSalg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
 
 ## Profile Views
 
