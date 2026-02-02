@@ -1,15 +1,17 @@
 # Thiago Rodrigo
 
-Computer Engineer from Federal University of Amazonas, specializing in industrial automation and robotics. Based in Manaus, Brazil.
+Computer Engineer from Federal University of Amazonas, specializing in robotics, LLM applications, and data science. Based in Manaus, Brazil.
 
 ## Tech Stack
 
-Focused on industrial automation systems, robotics development and backend engineering:
+Focused on robotics, LLM applications, and data science:
 
-- **Languages**: Python, C#, JavaScript/TypeScript, SPEL+, Ladder
+- **AI/ML**: LLMs (OpenAI, Anthropic Claude, Gemini), Vertex AI, Machine Learning, Computer Vision
+- **Data Science**: Python (Pandas, NumPy, Scikit-learn), Data Analysis, Statistical Modeling
 - **Backend**: Node.js, NestJS, Django, Flask, FastAPI
+- **Languages**: Python, JavaScript/TypeScript, C#, SPEL+, Ladder
 - **Database**: Prisma ORM, SQL Server, PostgreSQL
-- **Domains**: Computer vision, distributed control systems, industrial integration, REST API development
+- **Industrial**: Robotics Integration (EPSON, Universal Robots), Cognex Vision Systems, Modbus TCP
 
 ## Current Research
 
@@ -18,13 +20,13 @@ Master's student at PPGEE/UFAM conducting comparative research between RTOS and 
 ## Recent Work
 
 Hands-on experience with:
-- Cognex In-Sight vision systems and EPSON robot integration
-- RESTful APIs with NestJS, FastAPI and Swagger documentation
-- Flask-based camera streaming applications
+- LLM integration and multi-agent AI architectures for industrial automation
+- Data analysis and statistical modeling for quality control systems
+- Document processing with Vertex AI and Gemini (PDF/Excel extraction)
+- Computer vision systems with Cognex In-Sight and robotics integration
 - Automated visual inspection systems (DAVI project)
-- Modbus TCP protocol implementation
-- Database modeling and ORM implementation with Prisma
-- Google Cloud Platform integration (Vertex AI, Gemini)
+- RESTful APIs with NestJS, FastAPI and Swagger documentation
+- Python-based data pipelines and analysis tools
 
 ## GitHub Statistics
 
@@ -55,6 +57,11 @@ Hands-on experience with:
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
